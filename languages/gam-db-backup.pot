@@ -1,0 +1,103 @@
+# Copyright (C) 2015 Gam DB Backup
+# This file is distributed under the same license as the gam db backup  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:Gam DB Backup 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/GAM-DB-Backup\n"
+"POT-Creation-Date: 2015-07-25 16:24:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GAM TEAMS <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: root
+#: gam-db-backup.php:103
+msgid "Processing, Please wait..."
+msgstr ""
+
+#: gam-db-backup.php:110
+msgid "GAM DB Backup"
+msgstr ""
+
+#: gam-db-backup.php:129
+#: gam-db-backup-template.php:106
+msgid "Once Daily"
+msgstr ""
+
+#: gam-db-backup.php:135
+#: gam-db-backup-template.php:107
+msgid "Once Weekly"
+msgstr ""
+
+
+#: gam-db-backup.php:142
+#: gam-db-backup-template.php:108
+msgid "Once Monthly"
+msgstr ""
+
+#: gam-db-backup-functions.php:117
+msgid "Your schedule settings successfully saved!"
+msgstr ""
+
+#: gam-db-backup-template.php:34
+msgid "Database Detail"
+msgstr ""
+
+#: gam-db-backup-template.php:40
+msgid "Host name"
+msgstr ""
+
+#: gam-db-backup-template.php:48
+msgid "Database name"
+msgstr ""
+
+#: gam-db-backup-template.php:56
+msgid "Database User name"
+msgstr ""
+
+#: gam-db-backup-template.php:64
+msgid "Password"
+msgstr ""
+
+#: gam-db-backup-template.php:73
+msgid "Backup Now"
+msgstr ""
+
+#: gam-db-backup-template.php:78
+msgid "Backup"
+msgstr ""
+
+#: gam-db-backup-template.php:79
+msgid "Start Backup"
+msgstr ""
+
+#: gam-db-backup-template.php:87
+msgid "Download"
+msgstr ""
+
+#: gam-db-backup-template.php:88
+msgid "Download File"
+msgstr ""
+
+#: gam-db-backup-template.php:96
+msgid "Backup Schedule"
+msgstr ""
+
+#: gam-db-backup-template.php:101
+msgid "Backup Schedules"
+msgstr ""
+
+
+#: gam-db-backup-template.php:108
+msgid "No Schedule"
+msgstr ""
+
+#: gam-db-backup-template.php:117
+msgid "Save"
+msgstr ""
+
+#: gam-db-backup-template.php:229
+msgid "For once %s   : database will store at  wp-contents/uploads/gam-db-backup/%s/"
+msgstr ""
