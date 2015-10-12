@@ -97,12 +97,12 @@ class GAM_DB_Backup {
 	 */
 	public function backend_scripts() 
 	{
-		wp_register_style( 'gam-db-backup-backend-css',  GAM_DB_BACKUP_PLUGIN_URL.'/assets/css/backend.css');
-	      	wp_enqueue_style('gam-db-backup-backend-css');	
+		wp_register_style( 'gam-db-backup-backend-css',  GAM_DB_BACKUP_PLUGIN_URL.'/assets/css/backend.min.css');
+	    wp_enqueue_style('gam-db-backup-backend-css');	
 		  
-		//script admin.min.js 
-		wp_enqueue_script( 'gam-db-backup-admin-js', GAM_DB_BACKUP_PLUGIN_URL. '/assets/js/backend.min.js', array( 'jquery'), GAM_DB_BACKUP_PLUGIN_URL, true );
-          	wp_localize_script( 'gam-db-backup-admin-js', 'gam_db_backup_admin_js', 
+	
+		wp_enqueue_script( 'gam-db-backup-backend-js', GAM_DB_BACKUP_PLUGIN_URL. '/assets/js/backend.min.js', array( 'jquery'), GAM_DB_BACKUP_PLUGIN_URL, true );
+        wp_localize_script( 'gam-db-backup-backend-js', 'gam_db_backup_backend_js', 
 								array(
 									'ajax_url'      => admin_url( 'admin-ajax.php' ),									
 									'loading_message' => __( 'Processing, Please wait...', 'gam-db-backup' )
