@@ -1,19 +1,20 @@
 # Copyright (C) 2015 Gam DB Backup
 # This file is distributed under the same license as the gam db backup  package.
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:Gam DB Backup 1.0.0\n"
+"Project-Id-Version: Gam DB Backup 1.0.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/GAM-DB-Backup\n"
-"POT-Creation-Date: 2015-07-25 16:24:46+00:00\n"
+"POT-Creation-Date: 2015-10-12 17:16+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
 "Last-Translator: GAM TEAMS <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.5\n"
 
-#: root
-#: gam-db-backup.php:103
+#: root gam-db-backup.php:103
 msgid "Processing, Please wait..."
 msgstr ""
 
@@ -21,19 +22,15 @@ msgstr ""
 msgid "GAM DB Backup"
 msgstr ""
 
-#: gam-db-backup.php:129
-#: gam-db-backup-template.php:106
+#: gam-db-backup.php:129 gam-db-backup-template.php:106
 msgid "Once Daily"
 msgstr ""
 
-#: gam-db-backup.php:135
-#: gam-db-backup-template.php:107
+#: gam-db-backup.php:135 gam-db-backup-template.php:107
 msgid "Once Weekly"
 msgstr ""
 
-
-#: gam-db-backup.php:142
-#: gam-db-backup-template.php:108
+#: gam-db-backup.php:142 gam-db-backup-template.php:108
 msgid "Once Monthly"
 msgstr ""
 
@@ -82,13 +79,12 @@ msgid "Download File"
 msgstr ""
 
 #: gam-db-backup-template.php:96
-msgid "Backup Schedule"
+msgid "Schedule Setting"
 msgstr ""
 
 #: gam-db-backup-template.php:101
-msgid "Backup Schedules"
+msgid "Auto Backup Frequency"
 msgstr ""
-
 
 #: gam-db-backup-template.php:108
 msgid "No Schedule"
