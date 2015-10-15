@@ -1,5 +1,6 @@
 === GAM DB Backup ===
 Contributors: GAM Themes (www.gamthemes.com)
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=55FRYATTFLA5N
 Tags: database, backup, db, gam, data save, security, schedule, gam themes, database management, databanken, data, wordpress database backup, wp db backup, wordpress backup,db backup,wp backup, mysql backup, automatically database backup, website database backup,store database backup, restore database, backup on dropbox, ftp, email notification.
 Requires at least: 3.0
 Tested up to: 4.3
